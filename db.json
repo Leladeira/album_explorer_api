@@ -1,0 +1,25 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "title": "Foto 1 - paisagem",
+      "url": "https://picsum.photos/id/1015/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1015/150/150"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "Foto 2 - montanha",
+      "url": "https://picsum.photos/id/1016/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1016/150/150"
+    },
+    {
+      "id": 3,
+      "albumId": 2,
+      "title": "Foto 3 - cidade",
+      "url": "https://picsum.photos/id/1020/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1020/150/150"
+    }
+  ]
+}
