@@ -20,6 +20,13 @@
       "title": "Foto 3 - cidade",
       "url": "https://picsum.photos/id/1020/600/600",
       "thumbnailUrl": "https://picsum.photos/id/1020/150/150"
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "title": "Foto 3 - aurora boreal",
+      "url": "https://picsum.photos/id/1022/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1020/150/150"
     }
   ]
 }
